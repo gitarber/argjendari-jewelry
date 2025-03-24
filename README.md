@@ -2,7 +2,23 @@
 
 A modern, responsive luxury jewelry e-commerce website built with React, TypeScript, and TailwindCSS. This project showcases high-end jewelry collections with a focus on bespoke services and exceptional user experience.
 
-![ARGJENDARI KAPIDANI Website](public/preview.png)
+## 🌐 Live Demo
+
+[View Live Demo](https://lustrous-nougat-5eb636.netlify.app/)
+
+## 📱 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Collections
+![Collections](screenshots/collections.png)
+
+### Bespoke Services
+![Bespoke Services](screenshots/bespoke.png)
+
+### Contact
+![Contact](screenshots/contact.png)
 
 ## 🌟 Features
 
@@ -26,7 +42,7 @@ A modern, responsive luxury jewelry e-commerce website built with React, TypeScr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arberkapidani/argjendari-jewelry.git
+   git clone https://github.com/gitarber/argjendari-jewelry.git
    cd argjendari-jewelry
    ```
 
@@ -62,14 +78,6 @@ src/
 - TypeScript configuration in `tsconfig.json`
 - Vite configuration in `vite.config.ts`
 
-## 🌐 Live Demo
-
-[View Live Demo](https://your-demo-link.com)
-
-## 📱 Screenshots
-
-[Add screenshots of key pages/features]
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/argjendari-kapidani/issues).
@@ -80,8 +88,8 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👤 Author
 
-**Arber Kapidani**
-- GitHub: [@arberkapidani](https://github.com/arberkapidani)
+**Arber Shquti**
+- GitHub: [@gitarber](https://github.com/gitarber)
 
 ## 🙏 Acknowledgments
 
